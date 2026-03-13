@@ -24,7 +24,7 @@ Radar recordings are stored in `.h5` format and processed to extract respiratory
 
 # System Pipeline
 
-
+...
 Radar .h5 Data
 ↓
 Breathing Signal Extraction
@@ -36,13 +36,13 @@ Segment Dataset Generation
 CNN Training
 ↓
 Real-time Inference
-
+...
 
 ---
 
 # Project Structure
 
-
+...
 mmWave-Breathing-Detection
 │
 ├── batch_cycle_v2_label_gated.py
@@ -55,7 +55,7 @@ mmWave-Breathing-Detection
 ├── data
 │
 └── README.md
-
+...
 
 ---
 
