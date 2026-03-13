@@ -99,15 +99,14 @@ Process:
 
 Output:
 
-
-dataset_segments.pt
-
+  dataset_segments.pt
 
 Dataset format:
 
+  X : breathing waveform segments
+  
+  y : labels
 
-X : breathing waveform segments
-y : labels
 ---
 
 ## 3. CNN Training
