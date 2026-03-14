@@ -1,0 +1,15 @@
+{
+  "contact_info": "",
+  "current_mode": "預設模式",
+  "current_music_title": "舒緩引導音樂 (預設)",
+  "playlist_files": [
+    "music/secertbase.mp4",
+    "music/videoplayback.mp4"
+  ],
+  "level1_threshold": 20.0,
+  "level2_threshold": 50.0,
+  "level3_threshold": 80.0,
+  "guided_bpm": 12.0,
+  "enable_tts": true,
+  "enable_auto_music": true
+}
