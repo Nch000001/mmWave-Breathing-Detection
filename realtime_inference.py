@@ -21,7 +21,7 @@ from KKT_Module.SettingProcess.SettingProccess import SettingProc
 DEFAULT_STREAM_REG_ADDR = 0x50000504
 DEFAULT_STREAM_REG_BIT = 5
 DEFAULT_STREAM_REG_VAL = 1
-DEFAULT_SETTING_DIR = r"C:\Users\macho\Desktop\py389\mmWave\Collect_RDI\Collect_RDI\TempParam\K60168-Test-00256-008-v0.0.8-20230717_60cm"
+DEFAULT_SETTING_DIR = "K60168-Test-00256-008-v0.0.8-20230717_60cm"
 
 
 class CnnInferenceUpdater(Updater):
